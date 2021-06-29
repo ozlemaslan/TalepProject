@@ -1,0 +1,16 @@
+C:\Users\ozlem\source\repos\ProjectApp\ProjectApp.DataAccess\bin\Debug\ProjectApp.DataAccess.dll.config
+C:\Users\ozlem\source\repos\ProjectApp\ProjectApp.DataAccess\bin\Debug\ProjectApp.DataAccess.dll
+C:\Users\ozlem\source\repos\ProjectApp\ProjectApp.DataAccess\bin\Debug\ProjectApp.DataAccess.pdb
+C:\Users\ozlem\source\repos\ProjectApp\ProjectApp.DataAccess\bin\Debug\EntityFramework.dll
+C:\Users\ozlem\source\repos\ProjectApp\ProjectApp.DataAccess\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ozlem\source\repos\ProjectApp\ProjectApp.DataAccess\bin\Debug\ProjectApp.Model.dll
+C:\Users\ozlem\source\repos\ProjectApp\ProjectApp.DataAccess\bin\Debug\ProjectApp.Model.pdb
+C:\Users\ozlem\source\repos\ProjectApp\ProjectApp.DataAccess\bin\Debug\EntityFramework.xml
+C:\Users\ozlem\source\repos\ProjectApp\ProjectApp.DataAccess\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ozlem\source\repos\ProjectApp\ProjectApp.DataAccess\obj\Debug\ProjectApp.DataAccess.csprojAssemblyReference.cache
+C:\Users\ozlem\source\repos\ProjectApp\ProjectApp.DataAccess\obj\Debug\ProjectApp.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\ozlem\source\repos\ProjectApp\ProjectApp.DataAccess\obj\Debug\ProjectApp.DataAccess.csproj.CopyComplete
+C:\Users\ozlem\source\repos\ProjectApp\ProjectApp.DataAccess\obj\Debug\ProjectApp.DataAccess.dll
+C:\Users\ozlem\source\repos\ProjectApp\ProjectApp.DataAccess\obj\Debug\ProjectApp.DataAccess.pdb
+C:\Users\ozlem\source\repos\ProjectApp\ProjectApp.DataAccess\bin\Debug\Ninject.dll
+C:\Users\ozlem\source\repos\ProjectApp\ProjectApp.DataAccess\bin\Debug\Ninject.xml

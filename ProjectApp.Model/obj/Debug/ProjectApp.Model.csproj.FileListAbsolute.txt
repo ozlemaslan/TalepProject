@@ -1,0 +1,6 @@
+C:\Users\ozlem\source\repos\ProjectApp\ProjectApp.Model\bin\Debug\ProjectApp.Model.dll
+C:\Users\ozlem\source\repos\ProjectApp\ProjectApp.Model\bin\Debug\ProjectApp.Model.pdb
+C:\Users\ozlem\source\repos\ProjectApp\ProjectApp.Model\obj\Debug\ProjectApp.Model.csproj.CoreCompileInputs.cache
+C:\Users\ozlem\source\repos\ProjectApp\ProjectApp.Model\obj\Debug\ProjectApp.Model.dll
+C:\Users\ozlem\source\repos\ProjectApp\ProjectApp.Model\obj\Debug\ProjectApp.Model.pdb
+C:\Users\ozlem\source\repos\ProjectApp\ProjectApp.Model\obj\Debug\ProjectApp.Model.csprojAssemblyReference.cache

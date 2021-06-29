@@ -1,0 +1,108 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\ozlem\\source\\repos\\ProjectApp\\ProjectApp.NetCore\\ProjectApp.NetCore.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\ozlem\\source\\repos\\ProjectApp\\ProjectApp.DataAccess\\ProjectApp.DataAccess.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Users\\ozlem\\source\\repos\\ProjectApp\\ProjectApp.DataAccess\\ProjectApp.DataAccess.csproj",
+        "projectName": "ProjectApp.DataAccess",
+        "projectPath": "C:\\Users\\ozlem\\source\\repos\\ProjectApp\\ProjectApp.DataAccess\\ProjectApp.DataAccess.csproj",
+        "frameworks": {
+          "net472": {
+            "projectReferences": {
+              "C:\\Users\\ozlem\\source\\repos\\ProjectApp\\ProjectApp.Model\\ProjectApp.Model.csproj": {
+                "projectPath": "C:\\Users\\ozlem\\source\\repos\\ProjectApp\\ProjectApp.Model\\ProjectApp.Model.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    },
+    "C:\\Users\\ozlem\\source\\repos\\ProjectApp\\ProjectApp.Model\\ProjectApp.Model.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Users\\ozlem\\source\\repos\\ProjectApp\\ProjectApp.Model\\ProjectApp.Model.csproj",
+        "projectName": "ProjectApp.Model",
+        "projectPath": "C:\\Users\\ozlem\\source\\repos\\ProjectApp\\ProjectApp.Model\\ProjectApp.Model.csproj"
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    },
+    "C:\\Users\\ozlem\\source\\repos\\ProjectApp\\ProjectApp.NetCore\\ProjectApp.NetCore.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\ozlem\\source\\repos\\ProjectApp\\ProjectApp.NetCore\\ProjectApp.NetCore.csproj",
+        "projectName": "ProjectApp.NetCore",
+        "projectPath": "C:\\Users\\ozlem\\source\\repos\\ProjectApp\\ProjectApp.NetCore\\ProjectApp.NetCore.csproj",
+        "packagesPath": "C:\\Users\\ozlem\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ozlem\\source\\repos\\ProjectApp\\ProjectApp.NetCore\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\ozlem\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 19.2.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\DevExpress 19.2\\Components\\System\\Components\\Packages": {},
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Users\\ozlem\\source\\repos\\ProjectApp\\ProjectApp.DataAccess\\ProjectApp.DataAccess.csproj": {
+                "projectPath": "C:\\Users\\ozlem\\source\\repos\\ProjectApp\\ProjectApp.DataAccess\\ProjectApp.DataAccess.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.1, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[5.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

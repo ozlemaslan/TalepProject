@@ -1,0 +1,12 @@
+C:\Users\ozlem\source\repos\ProjectApp\ProjectApp.Core\bin\Debug\ProjectApp.Core.dll.config
+C:\Users\ozlem\source\repos\ProjectApp\ProjectApp.Core\bin\Debug\ProjectApp.Core.dll
+C:\Users\ozlem\source\repos\ProjectApp\ProjectApp.Core\bin\Debug\ProjectApp.Core.pdb
+C:\Users\ozlem\source\repos\ProjectApp\ProjectApp.Core\bin\Debug\EntityFramework.dll
+C:\Users\ozlem\source\repos\ProjectApp\ProjectApp.Core\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ozlem\source\repos\ProjectApp\ProjectApp.Core\bin\Debug\EntityFramework.xml
+C:\Users\ozlem\source\repos\ProjectApp\ProjectApp.Core\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ozlem\source\repos\ProjectApp\ProjectApp.Core\obj\Debug\ProjectApp.Core.csprojAssemblyReference.cache
+C:\Users\ozlem\source\repos\ProjectApp\ProjectApp.Core\obj\Debug\ProjectApp.Core.csproj.CoreCompileInputs.cache
+C:\Users\ozlem\source\repos\ProjectApp\ProjectApp.Core\obj\Debug\ProjectApp.Core.csproj.CopyComplete
+C:\Users\ozlem\source\repos\ProjectApp\ProjectApp.Core\obj\Debug\ProjectApp.Core.dll
+C:\Users\ozlem\source\repos\ProjectApp\ProjectApp.Core\obj\Debug\ProjectApp.Core.pdb
